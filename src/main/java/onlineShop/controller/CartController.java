@@ -14,6 +14,7 @@ import onlineShop.model.Customer;
 import onlineShop.service.CartService;
 import onlineShop.service.CustomerService;
 
+//This is the main controller for the cart service
 @Controller
 public class CartController {
 	@Autowired
