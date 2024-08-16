@@ -1,2 +1,2 @@
 # EcommerceShoppingPortal
-This is a Spring MVC and JSP based online shopping portal.
+This is a Spring MVC and Java Servlet Pages based online shopping portal.
