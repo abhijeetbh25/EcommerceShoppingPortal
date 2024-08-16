@@ -20,6 +20,7 @@ import onlineShop.service.CartService;
 import onlineShop.service.CustomerService;
 import onlineShop.service.ProductService;
 
+//This is the main controller for the cart item controller
 @Controller
 public class CartItemController {
     @Autowired
